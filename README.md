@@ -1,6 +1,6 @@
 # Blubot 🤖
 
-![Blubot](assets/blubot_icon.png)
+<img src="assets/blubot_icon.png" alt="Blubot" width="150"/>
 
 Blubot is a modular, multi-purpose Discord bot built with [discord.py].  
 It bundles fun mini-games, utilities, timers, polls, weather, currency conversion, and a clean, embed-based help system.
