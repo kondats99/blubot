@@ -1,11 +1,11 @@
 # Blubot 🤖
 
-![Blubot](assets/blubot.png)
+![Blubot](assets/blubot_icon.png)
 
 Blubot is a modular, multi-purpose Discord bot built with [discord.py].  
 It bundles fun mini-games, utilities, timers, polls, weather, currency conversion, and a clean, embed-based help system.
 
-> Default prefix: **`%`**
+Default prefix: **`%`**
 
 ---
 
@@ -57,7 +57,7 @@ blubot/
 
 ## 🔐 Environment Variables (`.env`)
 
-> Create a `.env` file at the project root with your own tokens, replacing the placeholders in `.env.example`:
+Create a `.env` file at the project root with your own tokens, replacing the placeholders in `.env.example`:
 
 ```
 DISCORD_TOKEN=your_discord_bot_token_here
@@ -179,11 +179,11 @@ Below are **all commands**, grouped roughly by category, with usage, examples, a
   - ``%fact num``
   - ``%fact cat``
 
-> **APIs used in `quotes.py`**
-> - Facts: `uselessfacts.jsph.pl` (random), `numbersapi.com` (number trivia), `catfact.ninja` (cat facts)
-> - Jokes: `official-joke-api.appspot.com`
-> - Quotes: `zenquotes.io`
-> If any external API is unreachable or returns an error, the bot responds with a message.
+**APIs used in `quotes.py`**
+- Facts: `uselessfacts.jsph.pl` (random), `numbersapi.com` (number trivia), `catfact.ninja` (cat facts)
+- Jokes: `official-joke-api.appspot.com`
+- Quotes: `zenquotes.io`
+If any external API is unreachable or returns an error, the bot responds with a message.
 
 ---
 
@@ -243,7 +243,7 @@ Below are **all commands**, grouped roughly by category, with usage, examples, a
 
 ### To-Do List (per user; in memory)
 
-> Stored per user **in RAM only** (data resets on bot restart).
+Stored per user **in RAM only** (data resets on bot restart).
 
 `%todo` is a command **group** with subcommands:
 
