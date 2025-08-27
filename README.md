@@ -47,6 +47,7 @@ blubot/
    ├─ quotes.py
    ├─ remindme.py
    ├─ slots.py
+   ├─ theories.txt
    ├─ theory.py
    ├─ timer.py
    ├─ todo.py
@@ -322,14 +323,6 @@ Stored per user **in RAM only** (data resets on bot restart).
   These are in-memory. Persisting them would require storage (DB/file), which is not included by default.
 
 ---
-
-## 🔒 Security Notes
-
-- Never commit your `.env` or tokens.
-- Rotate your Discord token from the Developer Portal if it is ever exposed.
-
----
-
 
 ## License & Disclaimer
 
