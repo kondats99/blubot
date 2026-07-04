@@ -324,15 +324,6 @@ Stored per user **in RAM only** (data resets on bot restart).
 
 ---
 
-## License & Disclaimer
-
-This project is licensed under the [MIT License](./LICENSE).
-
-⚠️ **Disclaimer:** While this project is open-source under the MIT License, you are **not permitted to use this bot for malicious purposes** such as crashing, attacking, or otherwise disrupting servers. Please use responsibly.
-
-
----
-
 ## 🙌 Credits
 
 - Built with [discord.py].
